@@ -1,4 +1,4 @@
-name: EB_9999
+name: EB_1705
 channels:
   - conda-forge
   - defaults
